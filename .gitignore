@@ -1,0 +1,10 @@
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+__pycache__/
+*.pyc
+.DS_Store
+output*.png
+data/output/
+checkpoints/
